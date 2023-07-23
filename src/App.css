@@ -1,0 +1,28 @@
+.cards{
+  border: 5px solid purple;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+}
+img{
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+span{
+  background-color: yellow;
+}
+.parent{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
